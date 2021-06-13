@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hetal  
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning React, React-native, Vue 
+- 🌱 I’m currently learning React js
 - 📫 How to reach me @rajgorhetal
 
 <!---
